@@ -10,3 +10,7 @@ Front Page Title Is Valid
 Cookies are confirmed
     Page Should Contain    Muokkaa
     Page Should Contain    Ennen kuin jatkat Google Hakuun
+    Click Button    Hyväksyn
+
+Front page is displayed
+    Page Should Contain    Google-haku

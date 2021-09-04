@@ -1,5 +1,5 @@
 *** Variables ***
-${SERVER}         www.google.com
+${SERVER}         www.google.fi
 ${BROWSER}        Firefox
 ${DELAY}          3 seconds
 ${FRONT_PAGE}     http://${SERVER}/
